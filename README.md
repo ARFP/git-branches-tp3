@@ -1,1 +1,4 @@
-# git-branches-tp3
+# Travail en groupe sur un dépôt commun
+
+## Gestion des logs avec un Design Pattern
+
